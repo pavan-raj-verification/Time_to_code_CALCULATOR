@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1598789446 source:c:\users\pavan\documents\codeblocks\time_to_code_calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calculator.h"
+	"test_calculator.h"
+
+1598787576 c:\users\pavan\documents\codeblocks\time_to_code_calculator\inc\calculator.h
+
+1598789631 source:c:\users\pavan\documents\codeblocks\time_to_code_calculator\src\calculator.c
+
+1598788007 c:\users\pavan\documents\codeblocks\time_to_code_calculator\test\test_calculator.h
+
+1596710268 source:c:\users\pavan\documents\codeblocks\time_to_code_calculator\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1596710268 c:\users\pavan\documents\codeblocks\time_to_code_calculator\unity\unity.h
+	"unity_internals.h"
+
+1596710268 c:\users\pavan\documents\codeblocks\time_to_code_calculator\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1598789639 source:c:\users\pavan\documents\codeblocks\time_to_code_calculator\test\test_calculator.c
+	"unity.h"
+	"calculator.h"
+
